@@ -11,7 +11,6 @@ function diffArray(array1, array2) {
   });
   return diff.concat(y);
 }
-
 export {
   diffArray,
 };

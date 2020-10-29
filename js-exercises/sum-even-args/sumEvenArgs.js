@@ -10,5 +10,4 @@ const sumEvenArgs = (...args) => {
 
   return sum;
 };
-
 export { sumEvenArgs };

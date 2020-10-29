@@ -7,7 +7,6 @@ function removeFalsyValues(array) {
   });
   return newArray;
 }
-
 export {
   removeFalsyValues,
 };
